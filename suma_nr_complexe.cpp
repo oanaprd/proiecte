@@ -1,3 +1,4 @@
+//programul compara distanta dintre fiecare numar cu distanta dintre fiecare numar si suma totala dintre ele. daca distanta dintre numere este mai mare decat distanta dintre numar si suma totala programul afiseaza patratul numarului respectiv
 #include<iostream>
 #include<iomanip>
 #include<sstream>
